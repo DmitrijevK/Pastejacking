@@ -12,6 +12,6 @@ This technique works on any of the operating systems and is a very powerful tech
 
 ## how to use
 
-1. install Script for you web-site to the directory `js/`
+1. install Script for your web-site to the directory `js/`
 2. put this line at the end of the html page `<script src="js/pastejacking.js"></script>`
 3. Everything is ready 
